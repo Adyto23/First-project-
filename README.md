@@ -52,14 +52,14 @@ AgeRange - New column created for ranges: 18-29, 30-39, 40-49, 50-59, 70+
 
 ### Data Storage
 
-* Dump your data as `.csv` file. 
-
+* As the Dataset is quite large you will be able to access it for the following [Link]([(https://drive.google.com/drive/folders/1wGRChf85LullaU3Weyo1u2WpIUJbrXlo)])
+* 
 ## Data Analysis
 * Use [tableau]([https://public.tableau.com/app/profile/ady.toledano/viz/Book2_16794783401290/Story1?publish=yes])
 
 
 ### Data Exploration and Visualization
-Used Tableau to visualize the Project data data and ppt for the presentation: [(https://docs.google.com/presentation/d/1uV481vZeN0vXxO3m2vl5otSgrpAx9hq-1uts1mDUKk4/edit#slide=id.g1f9b3e5b7c1_4_75)]
+Used Tableau to visualize the Project data data and ppt for the [presentation][(https://docs.google.com/presentation/d/1uV481vZeN0vXxO3m2vl5otSgrpAx9hq-1uts1mDUKk4/edit#slide=id.g1f9b3e5b7c1_4_75)]
 
 ### Hypothesis Testing: 
 1. death , famous people project - 
