@@ -52,10 +52,10 @@ AgeRange - New column created for ranges: 18-29, 30-39, 40-49, 50-59, 70+
 
 ### Data Storage
 
-* As the Dataset is quite large you will be able to access it for the following [Link][(https://drive.google.com/drive/folders/1wGRChf85LullaU3Weyo1u2WpIUJbrXlo)]
-* 
+* As the Dataset is quite large you will be able to access:
+* Use [Link](https://drive.google.com/drive/folders/1wGRChf85LullaU3Weyo1u2WpIUJbrXlo)
 ## Data Analysis
-* Use [tableau]([https://public.tableau.com/app/profile/ady.toledano/viz/Book2_16794783401290/Story1?publish=yes])
+* Use [tableau](https://public.tableau.com/app/profile/ady.toledano/viz/Book2_16794783401290/Story1?publish=yes)
 
 
 ### Data Exploration and Visualization
